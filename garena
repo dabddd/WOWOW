@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Garena</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img src="c:\Users\Core i5 9th Gen\Desktop\1aabeafce97d6e8eae57d9d07873ef9e.jpg" alt="">
+<header>
+    <nav>
+    <div class="logo">
+        <img class="logo" src="png-transparent-red-garena-logo-garena-rov-mobile-moba-league-of-legends-youtube-singapore-cd-game-electronics-text-thumbnail-removebg-preview.png" alt="" width="150">
+        <h2><p style="color: red">Garena </p>
+    </div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Games</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Community</a></li>
+            <li><a href="#">Support</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="banner">
+    <h1>Welcome to Garena</h1>
+    <p>Your Gateway to Exciting Games</p>
+    <button style="padding: 10px 20px; background-color: #ff6000; border: none; color: white; cursor: pointer;">Play Now</button>
+</div>
+
+<section class="feature-section">
+    <div class="feature">
+        <img src="https://example.com/game1.jpg" alt="Game 1">
+        <h3>Game Title 1</h3>
+        <p>Explore an amazing gaming world</p>
+    </div>
+    <div class="feature">
+        <img src="https://example.com/game2.jpg" alt="Game 2">
+        <h3>Game Title 2</h3>
+        <p>Join millions of players globally</p>
+    </div>
+    <div class="feature">
+        <img src="https://example.com/game3.jpg" alt="Game 3">
+        <h3>Game Title 3</h3>
+        <p>Compete, collaborate, and win</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2025 Garena. All Rights Reserved.</p>
+    <nav>
+        <ul>
+            <li><a href="#" style="color:white;">Privacy Policy</a></li>
+            <li><a href="#" style="color:white;">Terms of Service</a></li>
+            <li><a href="#" style="color:white;">Contact Us</a></li>
+        </ul>
+    </nav>
+</footer>
+
+</body>
+</html>
